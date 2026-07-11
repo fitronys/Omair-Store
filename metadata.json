@@ -1,0 +1,6 @@
+{
+  "name": "Toko Fashion Sekolah",
+  "description": "Toko fashion online sederhana dengan keranjang belanja dan checkout otomatis via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
